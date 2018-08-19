@@ -102,7 +102,7 @@ live2d:
   tagMode: true
   debug: false
   display:
-    position: right
+    position: left
     width: 80
     height: 160
   mobile:
